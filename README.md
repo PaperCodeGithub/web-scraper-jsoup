@@ -8,7 +8,7 @@ import javaweb.JavaWebOps;
 ```
 ### Example Code
 The code below showcase the usage of Java Web Operations library.
-```bash
+```code
 import javaweb.JavaWebOps;
 
 import java.util.List;
